@@ -1,0 +1,5 @@
+Comandos
+
+- git init : Inicia o git
+- git add . : Adiciona todos arquivos a stage
+- git add * : Adiciona os arquivos que sofreram alteração a stage
